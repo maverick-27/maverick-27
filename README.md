@@ -60,7 +60,7 @@ Building toward **Java Champion** status.
 
 ## 📍 Location & Contact
 
-**Based in:** Brampton, Ontario, Canada  
+**Based in:** Ontario, Canada  
 **Open to:** Remote, Toronto area, or relocation for right role
 
 **Connect:** [LinkedIn](https://linkedin.com/in/akhil-2727-joshi) | [Email](mailto:akhil.joshi707@gmail.com)

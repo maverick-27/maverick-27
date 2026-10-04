@@ -1,114 +1,70 @@
-# GitHub Descriptions & Topics
+# Akhil Joshi
 
-Copy the description and topics into each repo's **About** section:
+**Staff-Level Backend Engineer** | **7+ years in fintech & payment systems** | **System design, microservices, Kafka** | **Toronto, ON**
 
----
-
-## 1. Mainline
-
-**About Section (Description):**
-```
-Interactive system design learning platform. Learn real architectural patterns through deployed, hands-on examples. No slides—just code, diagrams, and real-world scenarios.
-```
-
-**GitHub Topics:**
-```
-education, system-design, learning-platform, architecture, interactive, backend, distributed-systems, typescript, nextjs
-```
-
-**Why these topics?**
-- Attracts engineers interested in learning system design
-- Positions as educational/reference material
-- Highlights tech stack (TypeScript, Next.js)
-- Keywords help discoverability
+I architect and build production payment systems, distributed backends, and real-time platforms. Currently building system design tools and modern SaaS products.
 
 ---
 
-## 2. OrganizeFunds
+## 🎯 What I Build
 
-**About Section (Description):**
-```
-Modern SaaS for Canadian freelancers. Smart expense tracking, auto-categorization, and tax-ready reports. Built with Next.js, PostgreSQL, and AI-powered OCR.
-```
+**Payment & Fintech Systems**
+- Real-time payment processing (AANI, NIUM, ENBD integrations)
+- Microservices architectures with Kafka, Redis, PostgreSQL
+- High-scale distributed systems
 
-**GitHub Topics:**
-```
-saas, expense-tracking, fintech, canada, nextjs, typescript, postgres, freelance, tax, ocr
-```
+**System Design & Education**
+- Interactive learning platforms (hands-on, deployed examples)
+- Mentoring engineers on architecture decisions
+- Open source contributions
 
-**Why these topics?**
-- "SaaS" + "fintech" positions it as a real product
-- "Expense-tracking" targets users looking for similar solutions
-- "Canada" adds geo-specificity (your focus market)
-- Demonstrates full-stack expertise
+**Full-Stack Products**
+- SaaS applications (expense tracking, modern tools)
+- Optimized for performance, scalability, developer experience
 
 ---
 
-## 3. Lathewright Site
+## 🔨 Core Stack
 
-**About Section (Description):**
-```
-Modern agency marketing website. Full-stack Next.js build with Tailwind CSS, Contentful CMS, and optimized performance (Lighthouse 90+). Ready-to-customize template.
-```
-
-**GitHub Topics:**
-```
-nextjs, portfolio, agency, tailwind-css, frontend, full-stack, web-design, marketing-site, typescript, cms
-```
-
-**Why these topics?**
-- "Portfolio" makes it discoverable for designer/dev searches
-- "Agency" + "marketing-site" targets small business owners
-- "Tailwind-css" highlights modern design skills
-- Shows frontend/UI polish (important for fintech roles too)
+**Languages:** TypeScript, Java, Python  
+**Backend:** Node.js, Spring Boot, NestJS, Kafka  
+**Data:** PostgreSQL, MongoDB, Redis  
+**Cloud:** AWS, GCP, Terraform  
+**Focus:** Microservices, payment systems, real-time architecture
 
 ---
 
-## Update Your Profile Bio
+## 🚀 Projects
 
-**Current:** "AWS, GCP, Python, Java, JS, ReactJS, Node JS,Terraform, Google Code-In Mentor (JBoss) 2018 and 2019"
+**[Mainline](https://github.com/maverick-27/mainline)**  
+Interactive system design platform. Learn real architectural patterns through deployed, hands-on examples. No slides—actual code.
 
-**New Bio (Recommended):**
-```
-Backend engineer | Payment systems & microservices | System design educator 🚀
-```
+**[OrganizeFunds](https://github.com/maverick-27/organizefunds)**  
+Modern SaaS for Canadian freelancers. Smart expense tracking, auto-categorization, tax-ready reports. Full-stack: Next.js + PostgreSQL + AI OCR.
 
-**Alt (Longer):**
-```
-Staff-level backend engineer | Fintech, microservices, distributed systems | Building system design tools
-```
-
-Choose whichever feels right. Both are punchy, clear, and highlight what matters for fintech roles.
+**[Lathewright Site](https://github.com/maverick-27/lathewright-site)**  
+Full-stack agency site. Next.js + Tailwind, Contentful CMS, Lighthouse 90+. Production-ready template.
 
 ---
 
-## Pinned Repos
+## 💼 Looking For
 
-**Update your pinned repos** (click "Customize your pins"):
-Remove old tutorial repos. Pin instead:
-1. **mainline**
-2. **organizefunds**
-3. **lathewright-site**
+**Staff Engineer** or **Principal Engineer** roles in:
+- Fintech / payment systems
+- Real-time, distributed systems
+- Companies building at scale
 
-This shows recruiters your **best current work** immediately.
+Building toward **Java Champion** status.
 
 ---
 
-## Implementation Checklist
+## 📍 Location & Contact
 
-- [ ] Copy profile bio → Edit Profile
-- [ ] Copy Profile README.md → Create new file at root of your profile (instructions: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
-- [ ] Update mainline:
-  - [ ] Paste description in About section
-  - [ ] Add topics
-  - [ ] Paste README into repo (or update existing)
-- [ ] Update organizefunds:
-  - [ ] Paste description in About section
-  - [ ] Add topics
-  - [ ] Paste README into repo
-- [ ] Update lathewright-site:
-  - [ ] Paste description in About section
-  - [ ] Add topics
-  - [ ] Paste README into repo
-- [ ] Pin the 3 repos to your profile
-- [ ] Verify everything looks good on your profile page
+**Based in:** Brampton, Ontario, Canada  
+**Open to:** Remote, Toronto area, or relocation for right role
+
+**Connect:** [LinkedIn](https://linkedin.com/in/akhil-2727-joshi) | [Email](mailto:akhil.joshi707@gmail.com)
+
+---
+
+**Current focus:** Building tools that make engineers better at system design. Always learning, always shipping.
